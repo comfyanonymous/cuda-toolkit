@@ -628,6 +628,10 @@ class WindowsLinks extends links_1.AbstractLinks {
                 'https://developer.download.nvidia.com/compute/cuda/12.0.0/network_installers/cuda_12.0.0_windows_network.exe'
             ],
             [
+                '11.8.0',
+                'https://developer.download.nvidia.com/compute/cuda/11.8.0/network_installers/cuda_11.8.0_windows_network.exe'
+            ],
+            [
                 '11.7.0',
                 'https://developer.download.nvidia.com/compute/cuda/11.7.0/network_installers/cuda_11.7.0_windows_network.exe'
             ],
@@ -733,6 +737,10 @@ class WindowsLinks extends links_1.AbstractLinks {
             [
                 '12.0.0',
                 'https://developer.download.nvidia.com/compute/cuda/12.0.0/local_installers/cuda_12.0.0_527.41_windows.exe'
+            ],
+            [
+                '11.8.0',
+                'https://developer.download.nvidia.com/compute/cuda/11.8.0/local_installers/cuda_11.8.0_522.06_windows.exe'
             ],
             [
                 '11.7.0',
